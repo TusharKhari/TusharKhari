@@ -94,8 +94,8 @@
 <a href="https://github.com/TusharKhari?tab=followers"><img src="https://img.shields.io/github/followers/TusharKhari?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKhari)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TusharKhari)
 ![GitHub metrics](https://metrics.lecoq.io/TusharKhari)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari)
-![Profile views](https://gpvc.arturio.dev/TusharKhari)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari) -->
+![Profile views](https://gpvc.arturio.dev/TusharKhari) 
