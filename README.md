@@ -1,14 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" height="400px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn-bnkjm.nitrocdn.com/DUExJGWUmraDgRgPwYXKmqiNoYSXlDJJ/assets/static/optimized/rev-4959b01/wp-content/uploads/2021/04/Why-Flutter-is-Better-for-App-Development.jpg" height="400px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
-<h3 align="center">I'm a enthusiastic about technologics.</h3>
+<h3 align="center">I'm a enthusiastic about technologies.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and algorithms and Flutter, LL .**
+- 🌱 I’m currently learning **Data Structures and algorithms and Flutter.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **tusharkhari1@gmail.com**
 
-- ⚡ Fun fact **I like to watch serial killers.**
+<!-- - ⚡ Fun fact **I like to watch serial killers.** -->
 - i am technology ent.
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png" height="55px" width="55px"/> </a> 
    <a href="https://getbootstrap.com" target="_blank"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" height="55px" width="55px"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -47,7 +47,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Dcode-k/github-readme-streak-stats">
+    <a href="https://github.com/TusharKhari/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tushar Khari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -65,13 +65,13 @@
 <br/>
 
 <a href="https://github.com/TusharKhari/github-readme-activity-graph"><img alt="Tushar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TusharKhari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TusharKhari)
+ <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TusharKhari) -->
 
 ![GitHub metrics](https://metrics.lecoq.io/TusharKhari)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari) -->
 
 ![Profile views](https://gpvc.arturio.dev/TusharKhari)  
 <br/>
