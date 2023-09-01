@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn-bnkjm.nitrocdn.com/DUExJGWUmraDgRgPwYXKmqiNoYSXlDJJ/assets/static/optimized/rev-4959b01/wp-content/uploads/2021/04/Why-Flutter-is-Better-for-App-Development.jpg" height="400px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn-https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/212179096/original/5e4fa857d3196e2b8baa58ec410620d02fab0ea1/create-flutter-firebase-applications-for-android-and-ios.png" height="400px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
 <h3 align="center">I'm a enthusiastic about technologies.</h3>
@@ -40,6 +40,14 @@
     </a>
 </p>
 
+## Connect with me:
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/tusharkhari/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="leetcode" width="45" height="45"/> </a> 
+  
+ <a href="https://leetcode.com/dOOdhMalai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="leetcode" width="45" height="45"/> </a> 
+</p>
+
 ## 📊 My Github Stats
 
   <br/>
@@ -52,20 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/TusharKhari/github-readme-activity-graph"><img alt="Tushar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TusharKhari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/TusharKhari)   -->
-
-
-## Connect with me:
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/tusharkhari/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="leetcode" width="45" height="45"/> </a> 
-  
- <a href="https://leetcode.com/dOOdhMalai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="leetcode" width="45" height="45"/> </a> 
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
