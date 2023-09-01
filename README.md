@@ -1,7 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn-https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/212179096/original/5e4fa857d3196e2b8baa58ec410620d02fab0ea1/create-flutter-firebase-applications-for-android-and-ios.png" height="400px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
+
+<h1 align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/L8hj93F/flutter-image.webp" width = "1200px" ,alt="flutter-image" border="0"></a><br /><a target='_blank' href='http://tusharkhari.in'></a><br />
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
 <h3 align="center">I'm a enthusiastic about technologies.</h3>
+
 
 
 ## 🙋‍♂️ About Me
@@ -67,3 +70,4 @@
     <img src="https://komarev.com/ghpvc/?username=TusharKhari">
 </a>
 <a href="https://github.com/TusharKhari?tab=followers"><img src="https://img.shields.io/github/followers/TusharKhari?label=Followers&style=social" alt="GitHub Badge"></a>
+
