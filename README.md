@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/L8hj93F/flutter-image.webp" width = "1200px" ,alt="flutter-image" border="0"></a><br /><a target='_blank' href='http://tusharkhari.in'></a><br />
+  <a href="http://tusharkhari.in"><img src="https://i.ibb.co/L8hj93F/flutter-image.webp" width = "1200px" ,alt="flutter-image" border="0"></a><br /><a target='_blank' href='http://tusharkhari.in'></a><br />
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
 <h3 align="center">I'm a enthusiastic about technologies.</h3>
 
