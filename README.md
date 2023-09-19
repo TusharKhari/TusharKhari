@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tusharkhari/**
 
-- ⚡ Fun fact **Call me BABA YAGA**
+- ⚡ Fun fact **Call me BABA MOJO**
 - i am technology enthusiast
 
 ## 🚀 Languages and Tools:
