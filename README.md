@@ -23,7 +23,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/tusharkhari/**
 
 - ⚡ Fun fact **Call me BABA MOJO**
-- i am technology enthusiast
+- I am technology enthusiast
 
 ## 🚀 Languages and Tools:
 
@@ -49,7 +49,7 @@
   
   <a href="https://www.linkedin.com/in/tusharkhari/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="leetcode" width="45" height="45"/> </a> 
   
- <a href="https://leetcode.com/dOOdhMalai/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="leetcode" width="45" height="45"/> </a> 
+ <a href="https://leetcode.com/TusharKhari/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="leetcode" width="45" height="45"/> </a> 
 </p>
 
 ## 📊 My Github Stats
