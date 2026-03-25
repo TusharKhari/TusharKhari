@@ -8,7 +8,6 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
 <h3 align="center">I'm a enthusiastic about technologies.</h3>
 
-![PHOTO-2026-03-25-11-31-25](https://github.com/user-attachments/assets/523c708a-5f47-4541-b4a7-2aeb4315b0b9)
 
 
 ## 🙋‍♂️ About Me
