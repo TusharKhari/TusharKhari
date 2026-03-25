@@ -1,75 +1,98 @@
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/523c708a-5f47-4541-b4a7-2aeb4315b0b9" width="100%" alt="banner"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Tushar Khari</h1>
+<h3 align="center">Data Analyst | Machine Learning Engineer | Python | SQL | Power BI</h3>
 
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
-<h3 align="center">I'm a enthusiastic about technologies.</h3>
+---
 
+## 🚀 About Me
 
+<!-- <img align="right" alt="coding" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"> -->
 
-## 🙋‍♂️ About Me
+- 🎓 Master's in **Machine Learning & Data Analytics** at Hochschule Aalen, Germany  
+- 💼 Software Engineer experience at **ICS Group** (Intern → Full-Time)  
+- 📊 Specializing in **Data Analytics, Machine Learning & Data Engineering**  
+- ⚡ Built **scalable ETL pipelines and end-to-end ML solutions**  
+- 💻 Working knowledge of **Full-Stack Development (frontend & backend )**  
+- 🌍 Based in Germany  
+---
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
- </p>
+## 🧠 Problem Solving
 
-- 🌱 I’m currently pursuing **Master's in Machine Learning and Data Analytics.**
-- 🌱 I know **Software Development, Data Analysis, Data Engineering, Machine Learning, Artificial Intelligence**
+- Solving Data Structures & Algorithms problems on LeetCode  
+- Focus on **SQL, Arrays, and System Design basics**  
+- 🔗 Profile: https://leetcode.com/u/TusharKhari/
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+---
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](http://tusharkhari.in)**
+## 💡 Core Skills
 
-- 📫 How to reach me **https://www.linkedin.com/in/tusharkhari/**
+**Programming:** Python, SQL, Java, C++  
+**Data & ML:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow  
+**Data Engineering:** ETL Pipelines, PySpark, Databricks, Airflow (basic)  
+**Visualization:** Power BI, KPI Dashboards, Matplotlib  
+**Tools:** Git, Docker, Azure, Jupyter, VS Code  
 
-- I am technology enthusiast
+---
 
-## 🚀 Languages and Tools:
+## 📂 Featured Projects
 
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" height="55px" width="55px"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://5.imimg.com/data5/QB/LQ/MY-53266557/c-programming-language-500x500.png" height="55px" width="55px"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="postman" width="45" height="45"/> </a> 
-  
-</p>
-<br/>
+Modern Data Warehouse & Analytics End-to-End Project
+
+### 🔹 Modern Data Warehouse & Analytics Project
+- Engineered a scalable **PostgreSQL data warehouse** using Medallion Architecture (Bronze → Silver → Gold)
+- Built robust **ETL pipelines** to process and transform ERP & CRM data
+- Designed optimized **star schema models** for analytical querying
+- Performed **EDA and advanced SQL analytics** to extract business insights
+- Delivered insights on **customer behavior, sales trends, and product performance**
+- Structured end-to-end **data workflows for reporting and decision-making**
+
+### 🔹 Customer Behavior Analysis
+- End-to-end pipeline using **Python, SQL, Databricks**
+- Customer segmentation & EDA
+- Interactive **Power BI dashboards**
+
+### 🔹 Personal Data Detection (AI System)
+- Combined **YOLO + OCR + NLP**
+- Privacy risk detection using **BLIP-2 & BART**
+- Built interactive **Streamlit app**
+
+### 🔹 Image Classification (Deep Learning)
+- Implemented **CNN, VGG16, ResNet**
+- Improved performance via **data augmentation**
+
+---
+
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/TusharKhari/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tushar Khari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKhari&theme=black-ice&hide_border=true"/>
 </p>
 
-## Connect with me:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKhari&layout=compact&theme=react&hide_border=true"/>
+</p> -->
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/tusharkhari/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="leetcode" width="45" height="45"/> </a> 
-  
- <a href="https://leetcode.com/TusharKhari/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="leetcode" width="45" height="45"/> </a> 
+  <a href="https://www.linkedin.com/in/tusharkhari/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://leetcode.com/TusharKhari/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+  </a>
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/TusharKhari/github-readme-stats"><img alt="Tushar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TusharKhari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://TusharKhari/github-readme-stats"><img alt="Tushar Khari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharKhari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 👀 Profile Views
 
-
-<br/>
-<br/>
-
-
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=TusharKhari">
-</a>
-<a href="https://github.com/TusharKhari?tab=followers"><img src="https://img.shields.io/github/followers/TusharKhari?label=Followers&style=social" alt="GitHub Badge"></a>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TusharKhari"/>
+</p>
