@@ -1,10 +1,14 @@
 
 
-<h1 align="center">
-  <a href="http://tusharkhari.in"><img src="https://i.ibb.co/L8hj93F/flutter-image.webp" width = "1200px" ,alt="flutter-image" border="0"></a><br /><a target='_blank' href='http://tusharkhari.in'></a><br />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/523c708a-5f47-4541-b4a7-2aeb4315b0b9" width="100%" alt="banner"/>
+</p>
+
+
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tushar</h1>
 <h3 align="center">I'm a enthusiastic about technologies.</h3>
 
+![PHOTO-2026-03-25-11-31-25](https://github.com/user-attachments/assets/523c708a-5f47-4541-b4a7-2aeb4315b0b9)
 
 
 ## 🙋‍♂️ About Me
@@ -12,9 +16,8 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
  </p>
 
-- 🌱 I’m currently learning **Data Structures and algorithms and Flutter.**
-- 🌱 I have intermediate knowledge of Flutter.**
-- 🌱 I have done two internships in flutter.**
+- 🌱 I’m currently pursuing **Master's in Machine Learning and Data Analytics.**
+- 🌱 I know **Software Development, Data Analysis, Data Engineering, Machine Learning, Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -22,7 +25,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/tusharkhari/**
 
-- ⚡ Fun fact **Call me BABA MOJO**
 - I am technology enthusiast
 
 ## 🚀 Languages and Tools:
